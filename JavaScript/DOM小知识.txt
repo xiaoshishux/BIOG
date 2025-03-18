@@ -1,0 +1,53 @@
+
+onclik(事件处理函数)
+
+       Document 对象
+1.document.write（向文档写 HTML 表达式 或 JavaScript 代码）
+
+2.createElement（创建元素节点）
+  document.createElement()
+
+3.createTextNode（创建文本节点）
+  document.createTextNode()
+
+         获取元素
+1.getElementById(通过元素ID获取)
+    document.getElementById (id)
+
+2.getElementsByTagName（通过标签名字获取）
+    document.getElementsByTagName(tag)
+
+3.getElementsByClassName（通过类名字获取）
+    document.getElementsByClassName(class)
+
+          元素对象
+1.appendChild（为元素添加一个子元素)
+  element.appendChild()
+
+2.insertBefore（现有的子元素之前插入一个新的子元素）
+  element.insertBefore()
+
+3.innerHTML（设置或者返回元素的内容）
+  element.innerHTML
+
+4.childNodes（返回元素的一个子节点的数组）
+  element.childNodes
+
+5.nodeType（返回元素的节点类型）
+   element.nodeType
+
+6.nodeValue（返回元素的节点值）
+  element.nodeValue
+
+7.firstChild（返回元素的第一个子节点）
+  element.firstChild
+
+8.lastChild（返回的最后一个子节点）
+   element.lastChild
+
+    获取和设置属性
+1.getAttribute(返回指定元素的属性值)
+  element.getAttribute(attribute)
+
+2.setAttribute(设置或者改变指定属性并指定值)
+  element.setAttribute(attribute,value)

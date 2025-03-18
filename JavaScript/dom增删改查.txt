@@ -1,0 +1,14 @@
+JS中的DOM操作
+1.查
+  1.通过ID来获取元素对象：document.getElementById("id")
+  2.通过name属性值来获取元素对象：document.getElementsByName("name")
+  3.通过标签名来获取元素对象：document.getElementsByTagName("标签名")
+2.增
+  1.创建标签元素：document.createElement("td")
+  2.创建普通的文本节点：document.createTextNode("文本字符串")
+  3.将元素挂载到另外一个元素上：dom对象1.appendChild(dom对象2)
+3.删
+    父标签dom.removeChild(子dom对象)
+4.修改
+  1.dom对象.属性名=属性值
+  2.dom对象.setAttribute("属性名",属性值)；

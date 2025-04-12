@@ -1,6 +1,6 @@
 # 师叔的前端学习知识库
 
-[前端面试题](https://www.yuque.com/xiaoshishu-xryij/bu40xs) | [电脑硬件维护知识](https://space.bilibili.com/1682566671?spm_id_from=333.1007.0.0)
+[前端知识架构体系](https://www.yuque.com/xiaoshishu-xryij/bu40xs) | [电脑硬件维护知识](https://space.bilibili.com/1682566671?spm_id_from=333.1007.0.0)
 
 ### 哇~~兄dei~ 您若觉得不错，在 版本库 点个star吧 😃
 

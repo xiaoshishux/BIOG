@@ -1,8 +1,8 @@
 * # [HTML](HTML/)
 * # [CSS](CSS/)
 * # [JavaScript](JavaScript/)
-  * [变量与数据类型](JavaScript/变量与数据类型)
-  * [表达式和语句](JavaScript/表达式和语句)
+  * [变量与数据类型]
+  * [表达式和语句]
   * [操作符](JavaScript/操作符)
   * [对象](JavaScript/对象)
   * [对象的使用](JavaScript/对象的使用)
@@ -28,7 +28,7 @@
   * [vue3-setup语法糖父子组件传值](Vue/vue3-setup语法糖父子组件传值)
   * [vue3中的监听watch](Vue/vue3中的监听watch)
   * [vue3中的proxy代理和diff算法](Vue/vue3中的proxy代理和diff算法)
-  * [Vue生命周期](Vue/Vue生命周期)
+  * [Vue生命周期](Vue/解决Vue3中使用setup如何定义组件的name属性)
   * [vue中H函数](Vue/vue中H函数)
 * # [React](React/)
 * # [Plugin](Plugin/)

@@ -1,12 +1,12 @@
-* # [HTML](HTML/)
-* # [CSS](CSS/)
-* # [JavaScript](JavaScript/)
-  * [变量与数据类型]
-  * [表达式和语句]
+* # [HTML]
+* # [CSS]
+* # [JavaScript]
+  * [变量与数据类型](JavaScript/变量与数据类型)
+  * [表达式和语句](JavaScript/表达式和语句)
   * [操作符](JavaScript/操作符)
   * [对象](JavaScript/对象)
   * [对象的使用](JavaScript/对象的使用)
-  * [对asyncawait的理解](JavaScript/对asyncawait的理解)
+  * [对async/await的理解](JavaScript/对asyncawait的理解)
   * [函数](JavaScript/函数)
   * [基本包装类型](JavaScript/基本包装类型)
   * [内置对象](JavaScript/内置对象)
@@ -18,8 +18,8 @@
   * [await到底在等啥](JavaScript/await到底在等啥？)
   * [JavaScript的组成](JavaScript/JavaScript的组成)
   * [JS 中的计时器能做到精确计时吗为什么](JavaScript/JS中的计时器能做到精确计时吗为什么)
-* # [Browser](Browser/)
-* # [Vue](Vue/)
+* # [Browser]
+* # [Vue]
   * [解决Vue3中使用setup如何定义组件的name属性](Vue/解决Vue3中使用setup如何定义组件的name属性)
   * [Config](Vue/vue.config.js)
   * [vue.config.js完整配置教程](Vue/vue.config.js完整配置教程)
@@ -30,7 +30,7 @@
   * [vue3中的proxy代理和diff算法](Vue/vue3中的proxy代理和diff算法)
   * [Vue生命周期](Vue/解决Vue3中使用setup如何定义组件的name属性)
   * [vue中H函数](Vue/vue中H函数)
-* # [React](React/)
-* # [Plugin](Plugin/)
-* # [Patterns](Patterns/)
-* # [Linux](Linux/)
+* # [React]
+* # [Plugin]
+* # [Patterns]
+* # [Linux]

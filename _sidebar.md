@@ -1,6 +1,8 @@
- ## HTML
- ## CSS
- ## JavaScript
+* HTML
+
+* CSS
+
+* JavaScript
   * [变量与数据类型](JavaScript/变量与数据类型.md)
   * [表达式和语句](JavaScript/表达式和语句.md)
   * [操作符](JavaScript/操作符.md)
@@ -18,19 +20,24 @@
   * [await到底在等啥](JavaScript/await到底在等啥？.md)
   * [JavaScript的组成](JavaScript/JavaScript的组成.md)
   * [JS 中的计时器能做到精确计时吗为什么](JavaScript/JS中的计时器能做到精确计时吗为什么.md)
- ## Browser
- ## Vue
+
+* Browser
+
+* Vue
   * [解决Vue3中使用setup如何定义组件的name属性](Vue/解决Vue3中使用setup如何定义组件的name属性.md)
   * [Config](Vue/vue.config.js)
   * [vue.config.js完整配置教程](Vue/vue.config.js完整配置教程.md)
   * [Vue2和Vue2的diff算法详解](Vue/Vue2和Vue2的diff算法详解)
-  * [解决Vue3中使用setup如何定义组件的name属性](Vue/解决Vue3中使用setup如何定义组件的name属性.md)
   * [vue3-setup语法糖父子组件传值](Vue/vue3-setup语法糖父子组件传值.md)
   * [vue3中的监听watch](Vue/vue3中的监听watch.md)
   * [vue3中的proxy代理和diff算法](Vue/vue3中的proxy代理和diff算法.md)
-  * [Vue生命周期](Vue/解决Vue3中使用setup如何定义组件的name属性.md)
+  * [Vue生命周期](Vue/Vue生命周期.md) 
   * [vue中H函数](Vue/vue中H函数.md)
- ## React
- ## Plugin
- ## Patterns
- ## Linux
+
+* React
+
+* Plugin
+
+* Patterns
+
+* Linux

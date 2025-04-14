@@ -4,7 +4,7 @@
 
 * JavaScript
   * javaScript基础
-    * [JavaScript基础](JavaScript/JavaScript基础/new操作符的实现原理.md)
+    * [new操作符的实现原理](JavaScript/JavaScript基础/new操作符的实现原理.md)
   * 数据类型
     * [JavaScript有哪些数据类型，它们的区别？](JavaScript/数据类型/JavaScript有哪些数据类型，它们的区别？.md)
   * [表达式和语句](JavaScript/表达式和语句.md)

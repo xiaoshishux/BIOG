@@ -3,7 +3,10 @@
 * CSS
 
 * JavaScript
-  * [变量与数据类型](JavaScript/变量与数据类型.md)
+  * javaScript基础
+    * [JavaScript基础](JavaScript/JavaScript基础/new操作符的实现原理.md)
+  * 数据类型
+    * [JavaScript有哪些数据类型，它们的区别？](JavaScript/数据类型/JavaScript有哪些数据类型，它们的区别？.md)
   * [表达式和语句](JavaScript/表达式和语句.md)
   * [操作符](JavaScript/操作符.md)
   * [对象](JavaScript/对象.md)

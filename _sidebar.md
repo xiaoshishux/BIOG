@@ -184,6 +184,14 @@
     * [Vue3.0 为什么要用 proxy？](Vue/Vue3.0/created和mounted的区别.md)
     * [Vue3.0中的VueCompositionAPI？](Vue/Vue3.0/Vue3.0中的Vue CompositionAPI？.md)
     * [CompositionAPI与ReactHook很像，区别是什么](Vue/Vue3.0/CompositionAPI与ReactHook很像，区别是什么.md)
+  * 虚拟DOM
+    * [对虚拟DOM的理解？](Vue/虚拟DOM/对虚拟DOM的理解？.md)
+    * [虚拟DOM的解析过程](Vue/虚拟DOM/虚拟DOM的解析过程.md)
+    * [为什么要用虚拟DOM](Vue/虚拟DOM/为什么要用虚拟DOM.md)
+    * [虚拟DOM真的比真实DOM性能好吗](Vue/虚拟DOM/虚拟DOM真的比真实DOM性能好吗.md)
+    * [DIFF算法的原理](Vue/虚拟DOM/DIFF算法的原理.md)
+    * [Vue中key的作用](Vue/Vuex/Vue中key的作用.md)
+    * [为什么不建议用index作为key?](Vue/虚拟DOM/为什么不建议用index作为key?.md)
 
 * React
 
